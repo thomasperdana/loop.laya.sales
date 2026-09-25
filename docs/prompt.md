@@ -1,0 +1,2 @@
+using @/Volumes/MacHD2/loop.laya.sales/docs/loop-engineering and https://github.com/NandhaKishorM/laya.git, 
+i want you to create a loop that get the leads from wix-symphony, send messages using TEXT, WhatsApp, Email to offer free website.
